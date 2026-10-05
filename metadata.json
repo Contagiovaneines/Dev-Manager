@@ -1,0 +1,6 @@
+{
+  "name": "Dev Environment Manager - Windows Developer Hub",
+  "description": "Manage development environments, SDKs, compilers, runtime paths, and Windows registry variables with interactive scanning, diagnostics, and version switching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
